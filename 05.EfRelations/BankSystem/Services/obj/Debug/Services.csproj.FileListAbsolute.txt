@@ -1,0 +1,14 @@
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Services\bin\Debug\Services.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Services\bin\Debug\Services.pdb
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Services\bin\Debug\Data.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Services\bin\Debug\Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Services\bin\Debug\Data.pdb
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Services\bin\Debug\Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Services\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Services\obj\Debug\Services.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Services\obj\Debug\Services.pdb
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Services\bin\Debug\Services.dll.config
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Services\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Services\bin\Debug\EntityFramework.SqlServer.xml

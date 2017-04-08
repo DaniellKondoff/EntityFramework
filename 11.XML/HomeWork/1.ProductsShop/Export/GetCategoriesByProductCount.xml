@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<categories>
+  <category name="Adult">
+    <product-count>1</product-count>
+    <average-price>53.590000</average-price>
+    <total-revenue>53.59</total-revenue>
+  </category>
+  <category name="Electronics">
+    <product-count>1</product-count>
+    <average-price>266.440000</average-price>
+    <total-revenue>266.44</total-revenue>
+  </category>
+  <category name="Weapons">
+    <product-count>1</product-count>
+    <average-price>585.930000</average-price>
+    <total-revenue>585.93</total-revenue>
+  </category>
+  <category name="For Children">
+    <product-count>1</product-count>
+    <average-price>245.630000</average-price>
+    <total-revenue>245.63</total-revenue>
+  </category>
+  <category name="Fashion">
+    <product-count>1</product-count>
+    <average-price>650.970000</average-price>
+    <total-revenue>650.97</total-revenue>
+  </category>
+  <category name="Autoparts">
+    <product-count>1</product-count>
+    <average-price>286.430000</average-price>
+    <total-revenue>286.43</total-revenue>
+  </category>
+  <category name="Other">
+    <product-count>1</product-count>
+    <average-price>137.160000</average-price>
+    <total-revenue>137.16</total-revenue>
+  </category>
+</categories>

@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Models\bin\Debug\Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Models\bin\Debug\Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Models\obj\Debug\Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Models\obj\Debug\Models.pdb

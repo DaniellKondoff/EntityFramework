@@ -1,0 +1,8 @@
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\01.PersonClass\bin\Debug\01.PersonClass.exe.config
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\01.PersonClass\bin\Debug\01.PersonClass.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\01.PersonClass\bin\Debug\01.PersonClass.pdb
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\01.PersonClass\obj\Debug\01.PersonClass.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\01.PersonClass\obj\Debug\01.PersonClass.pdb
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\01.PersonClass\bin\Debug\01.PersonClass.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\01.PersonClass\obj\Debug\01.PersonClass.exe
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\01.PersonClass\obj\Debug\01.PersonClass.pdb

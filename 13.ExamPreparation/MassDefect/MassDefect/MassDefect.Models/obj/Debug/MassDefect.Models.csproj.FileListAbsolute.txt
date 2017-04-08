@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Models\bin\Debug\MassDefect.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Models\bin\Debug\MassDefect.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Models\obj\Debug\MassDefect.Models.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Models\obj\Debug\MassDefect.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Models\obj\Debug\MassDefect.Models.pdb

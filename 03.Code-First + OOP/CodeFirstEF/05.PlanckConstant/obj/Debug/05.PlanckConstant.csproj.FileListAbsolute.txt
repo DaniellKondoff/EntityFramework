@@ -1,0 +1,8 @@
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\05.PlanckConstant\bin\Debug\05.PlanckConstant.exe.config
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\05.PlanckConstant\bin\Debug\05.PlanckConstant.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\05.PlanckConstant\bin\Debug\05.PlanckConstant.pdb
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\05.PlanckConstant\obj\Debug\05.PlanckConstant.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\05.PlanckConstant\obj\Debug\05.PlanckConstant.pdb
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\05.PlanckConstant\bin\Debug\05.PlanckConstant.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\05.PlanckConstant\obj\Debug\05.PlanckConstant.exe
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\05.PlanckConstant\obj\Debug\05.PlanckConstant.pdb

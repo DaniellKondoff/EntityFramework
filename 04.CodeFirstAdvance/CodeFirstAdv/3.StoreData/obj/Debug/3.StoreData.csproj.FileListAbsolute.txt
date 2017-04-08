@@ -1,0 +1,17 @@
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreData\bin\Debug\3.StoreData.dll.config
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreData\bin\Debug\3.StoreData.dll
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreData\bin\Debug\3.StoreData.pdb
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreData\bin\Debug\3.StoreModels.dll
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreData\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreData\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreData\bin\Debug\3.StoreModels.pdb
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreData\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreData\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreData\obj\Debug\3.StoreData.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreData\obj\Debug\3.StoreData.dll
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreData\obj\Debug\3.StoreData.pdb
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreData\obj\Debug\_3.StoreData.Migrations.ProductsAddColumnDescription.resources
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreData\obj\Debug\3.StoreData.csproj.GenerateResource.Cache
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreData\obj\Debug\_3.StoreData.Migrations.SalesAddDateDefault.resources
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreData\obj\Debug\_3.StoreData.Migrations.AddFirstNameLastNameCustomer.resources
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreData\obj\Debug\_3.StoreData.Migrations.AddCustomerAge.resources

@@ -1,0 +1,12 @@
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookCatalog.Client\bin\Debug\BookCatalog.Client.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookCatalog.Client\bin\Debug\BookCatalog.Client.exe
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookCatalog.Client\bin\Debug\BookCatalog.Client.pdb
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookCatalog.Client\bin\Debug\BookCatalog.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookCatalog.Client\bin\Debug\BookClient.Data.dll
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookCatalog.Client\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookCatalog.Client\bin\Debug\BookCatalog.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookCatalog.Client\bin\Debug\BookClient.Data.pdb
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookCatalog.Client\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookCatalog.Client\obj\Debug\BookCatalog.Client.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookCatalog.Client\obj\Debug\BookCatalog.Client.exe
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookCatalog.Client\obj\Debug\BookCatalog.Client.pdb

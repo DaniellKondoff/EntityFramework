@@ -1,0 +1,7 @@
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\BestPracticesArchitecture\App.Models\obj\Debug\App.Models.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\BestPracticesArchitecture\App.Models\bin\Debug\App.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\BestPracticesArchitecture\App.Models\bin\Debug\App.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\BestPracticesArchitecture\App.Models\bin\Debug\BestPracticeDemo.exe
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\BestPracticesArchitecture\App.Models\bin\Debug\BestPracticeDemo.pdb
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\BestPracticesArchitecture\App.Models\obj\Debug\App.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\BestPracticesArchitecture\App.Models\obj\Debug\App.Models.pdb

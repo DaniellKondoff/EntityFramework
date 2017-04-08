@@ -1,0 +1,12 @@
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Client\bin\Debug\Wedding.Client.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Client\bin\Debug\Wedding.Client.exe
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Client\bin\Debug\Wedding.Client.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Client\bin\Debug\Wedding.Data.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Client\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Client\bin\Debug\Wedding.Data.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Client\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Client\obj\Debug\Wedding.Client.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Client\obj\Debug\Wedding.Client.exe
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Client\obj\Debug\Wedding.Client.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Client\bin\Debug\Wedding.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Client\bin\Debug\Wedding.Models.pdb

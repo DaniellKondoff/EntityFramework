@@ -1,0 +1,6 @@
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\08.IncreaseMinionsAge\bin\Debug\08.IncreaseMinionsAge.exe.config
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\08.IncreaseMinionsAge\bin\Debug\08.IncreaseMinionsAge.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\08.IncreaseMinionsAge\bin\Debug\08.IncreaseMinionsAge.pdb
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\08.IncreaseMinionsAge\obj\Debug\08.IncreaseMinionsAge.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\08.IncreaseMinionsAge\obj\Debug\08.IncreaseMinionsAge.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\08.IncreaseMinionsAge\obj\Debug\08.IncreaseMinionsAge.pdb

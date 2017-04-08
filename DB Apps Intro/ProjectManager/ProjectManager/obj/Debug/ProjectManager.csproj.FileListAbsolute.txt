@@ -1,0 +1,6 @@
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe.config
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\ProjectManager\ProjectManager\bin\Debug\ProjectManager.pdb
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\ProjectManager\ProjectManager\obj\Debug\ProjectManager.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb

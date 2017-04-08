@@ -1,0 +1,16 @@
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Export\bin\Debug\MassDefect.Export.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Export\bin\Debug\MassDefect.Export.exe
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Export\bin\Debug\MassDefect.Export.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Export\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Export\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Export\bin\Debug\MassDefect.Data.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Export\bin\Debug\MassDefect.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Export\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Export\bin\Debug\MassDefect.Data.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Export\bin\Debug\MassDefect.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Export\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Export\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Export\bin\Debug\Newtonsoft.Json.xml
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Export\obj\Debug\MassDefect.Export.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Export\obj\Debug\MassDefect.Export.exe
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Export\obj\Debug\MassDefect.Export.pdb

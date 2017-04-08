@@ -1,0 +1,13 @@
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\01.StudentSystem\bin\Debug\01.StudentSystem.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\01.StudentSystem\bin\Debug\01.StudentSystem.exe
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\01.StudentSystem\bin\Debug\01.StudentSystem.pdb
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\01.StudentSystem\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\01.StudentSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\01.StudentSystem\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\01.StudentSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\01.StudentSystem\obj\Debug\01.StudentSystem.exe
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\01.StudentSystem\obj\Debug\01.StudentSystem.pdb
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\01.StudentSystem\obj\Debug\01.StudentSystem.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\01.StudentSystem\obj\Debug\StudentSystem.Migrations.InitialCreate.resources
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\01.StudentSystem\obj\Debug\01.StudentSystem.csproj.GenerateResource.Cache
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\01.StudentSystem\obj\Debug\StudentSystem.Migrations.AddLicenses.resources

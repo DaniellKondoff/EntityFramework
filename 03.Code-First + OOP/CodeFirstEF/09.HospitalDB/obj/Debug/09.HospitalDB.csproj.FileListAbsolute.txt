@@ -1,0 +1,10 @@
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\09.HospitalDB\bin\Debug\09.HospitalDB.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\09.HospitalDB\bin\Debug\09.HospitalDB.exe
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\09.HospitalDB\bin\Debug\09.HospitalDB.pdb
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\09.HospitalDB\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\09.HospitalDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\09.HospitalDB\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\09.HospitalDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\09.HospitalDB\obj\Debug\09.HospitalDB.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\09.HospitalDB\obj\Debug\09.HospitalDB.exe
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\09.HospitalDB\obj\Debug\09.HospitalDB.pdb

@@ -1,0 +1,14 @@
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Data\bin\Debug\TeamBuilder.Data.dll.config
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Data\bin\Debug\TeamBuilder.Data.dll
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Data\bin\Debug\TeamBuilder.Data.pdb
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Data\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Data\bin\Debug\TeamBuilder.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Data\bin\Debug\TeamBuilder.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Data\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Data\obj\Debug\TeamBuilder.Data.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Data\obj\Debug\TeamBuilder.Data.dll
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Data\obj\Debug\TeamBuilder.Data.pdb
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Data\bin\Debug\EntityFramework.Extended.dll
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Data\bin\Debug\EntityFramework.Extended.xml

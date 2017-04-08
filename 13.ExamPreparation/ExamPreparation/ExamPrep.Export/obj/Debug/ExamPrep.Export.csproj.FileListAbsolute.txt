@@ -1,0 +1,16 @@
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Export\bin\Debug\ExamPrep.Export.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Export\bin\Debug\ExamPrep.Export.exe
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Export\bin\Debug\ExamPrep.Export.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Export\bin\Debug\ExamPrep.Data.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Export\bin\Debug\ExamPrep.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Export\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Export\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Export\bin\Debug\ExamPrep.Data.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Export\bin\Debug\ExamPrep.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Export\bin\Debug\Newtonsoft.Json.xml
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Export\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Export\obj\Debug\ExamPrep.Export.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Export\obj\Debug\ExamPrep.Export.exe
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Export\obj\Debug\ExamPrep.Export.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Export\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Export\bin\Debug\EntityFramework.SqlServer.xml

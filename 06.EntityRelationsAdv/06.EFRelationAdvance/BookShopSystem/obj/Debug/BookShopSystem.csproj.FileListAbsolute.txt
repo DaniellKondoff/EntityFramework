@@ -1,0 +1,13 @@
+D:\VisualStudio2015\Projects\EntityFramework\06.EntityRelationsAdv\06.EFRelationAdvance\BookShopSystem\bin\Debug\BookShopSystem.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\06.EntityRelationsAdv\06.EFRelationAdvance\BookShopSystem\bin\Debug\BookShopSystem.exe
+D:\VisualStudio2015\Projects\EntityFramework\06.EntityRelationsAdv\06.EFRelationAdvance\BookShopSystem\bin\Debug\BookShopSystem.pdb
+D:\VisualStudio2015\Projects\EntityFramework\06.EntityRelationsAdv\06.EFRelationAdvance\BookShopSystem\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\06.EntityRelationsAdv\06.EFRelationAdvance\BookShopSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\06.EntityRelationsAdv\06.EFRelationAdvance\BookShopSystem\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\06.EntityRelationsAdv\06.EFRelationAdvance\BookShopSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\06.EntityRelationsAdv\06.EFRelationAdvance\BookShopSystem\obj\Debug\BookShopSystem.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\06.EntityRelationsAdv\06.EFRelationAdvance\BookShopSystem\obj\Debug\BookShopSystem.exe
+D:\VisualStudio2015\Projects\EntityFramework\06.EntityRelationsAdv\06.EFRelationAdvance\BookShopSystem\obj\Debug\BookShopSystem.pdb
+D:\VisualStudio2015\Projects\EntityFramework\06.EntityRelationsAdv\06.EFRelationAdvance\BookShopSystem\obj\Debug\BookShopSystem.Migrations.AddAgeRestriction.resources
+D:\VisualStudio2015\Projects\EntityFramework\06.EntityRelationsAdv\06.EFRelationAdvance\BookShopSystem\obj\Debug\BookShopSystem.csproj.GenerateResource.Cache
+D:\VisualStudio2015\Projects\EntityFramework\06.EntityRelationsAdv\06.EFRelationAdvance\BookShopSystem\obj\Debug\BookShopSystem.Migrations.AddRelatedBooks.resources

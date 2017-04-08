@@ -1,0 +1,10 @@
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe.config
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\EntityFramework\obj\Debug\EntityFramework.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb

@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Models\bin\Debug\Organizer.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Models\bin\Debug\Organizer.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Models\obj\Debug\Organizer.Models.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Models\obj\Debug\Organizer.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Models\obj\Debug\Organizer.Models.pdb

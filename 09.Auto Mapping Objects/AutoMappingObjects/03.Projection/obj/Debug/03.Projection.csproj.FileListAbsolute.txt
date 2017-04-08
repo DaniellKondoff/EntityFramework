@@ -1,0 +1,15 @@
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\03.Projection\bin\Debug\03.Projection.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\03.Projection\obj\Debug\03.Projection.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\03.Projection\bin\Debug\03.Projection.exe
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\03.Projection\bin\Debug\03.Projection.pdb
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\03.Projection\bin\Debug\02.AdvanceMapping.exe
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\03.Projection\bin\Debug\AutoMapper.dll
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\03.Projection\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\03.Projection\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\03.Projection\bin\Debug\System.ValueTuple.dll
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\03.Projection\bin\Debug\02.AdvanceMapping.pdb
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\03.Projection\bin\Debug\AutoMapper.xml
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\03.Projection\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\03.Projection\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\03.Projection\obj\Debug\03.Projection.exe
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\03.Projection\obj\Debug\03.Projection.pdb

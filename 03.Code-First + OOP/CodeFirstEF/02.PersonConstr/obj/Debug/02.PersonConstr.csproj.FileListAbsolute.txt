@@ -1,0 +1,11 @@
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\02.PersonConstr\bin\Debug\02.PersonConstr.exe.config
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\02.PersonConstr\bin\Debug\02.PersonConstr.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\02.PersonConstr\bin\Debug\02.PersonConstr.pdb
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\02.PersonConstr\obj\Debug\02.PersonConstr.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\02.PersonConstr\obj\Debug\02.PersonConstr.pdb
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\02.PersonConstr\bin\Debug\02.PersonConstr.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\02.PersonConstr\obj\Debug\02.PersonConstr.exe
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\02.PersonConstr\obj\Debug\02.PersonConstr.pdb
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\02.PersonConstr\bin\Debug\02.PersonConstr.exe
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\02.PersonConstr\bin\Debug\02.PersonConstr.pdb
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\02.PersonConstr\obj\Debug\02.PersonConstr.csprojResolveAssemblyReference.cache

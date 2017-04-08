@@ -1,0 +1,13 @@
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\02.AdvanceMapping\bin\Debug\02.AdvanceMapping.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\02.AdvanceMapping\bin\Debug\02.AdvanceMapping.exe
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\02.AdvanceMapping\bin\Debug\02.AdvanceMapping.pdb
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\02.AdvanceMapping\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\02.AdvanceMapping\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\02.AdvanceMapping\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\02.AdvanceMapping\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\02.AdvanceMapping\obj\Debug\02.AdvanceMapping.exe
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\02.AdvanceMapping\obj\Debug\02.AdvanceMapping.pdb
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\02.AdvanceMapping\obj\Debug\02.AdvanceMapping.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\02.AdvanceMapping\bin\Debug\AutoMapper.dll
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\02.AdvanceMapping\bin\Debug\System.ValueTuple.dll
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\02.AdvanceMapping\bin\Debug\AutoMapper.xml

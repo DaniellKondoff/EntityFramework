@@ -1,0 +1,13 @@
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\01.SimpleMapping\bin\Debug\SimpleMapping.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\01.SimpleMapping\bin\Debug\SimpleMapping.exe
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\01.SimpleMapping\bin\Debug\SimpleMapping.pdb
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\01.SimpleMapping\bin\Debug\AutoMapper.dll
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\01.SimpleMapping\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\01.SimpleMapping\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\01.SimpleMapping\bin\Debug\System.ValueTuple.dll
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\01.SimpleMapping\bin\Debug\AutoMapper.xml
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\01.SimpleMapping\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\01.SimpleMapping\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\01.SimpleMapping\obj\Debug\01.SimpleMapping.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\01.SimpleMapping\obj\Debug\SimpleMapping.exe
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\01.SimpleMapping\obj\Debug\SimpleMapping.pdb

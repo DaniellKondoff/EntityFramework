@@ -1,0 +1,1 @@
+D:\VisualStudio2015\Projects\EntityFramework\09.Auto Mapping Objects\AutoMappingObjects\AutoMapperInheritance\bin\Debug\AutoMapperInheritance.exe.config

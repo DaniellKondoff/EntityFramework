@@ -1,0 +1,16 @@
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Data\bin\Debug\Data.dll.config
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Data\bin\Debug\Data.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Data\bin\Debug\Data.pdb
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Data\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Data\bin\Debug\Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Data\bin\Debug\Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Data\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Data\obj\Debug\Data.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Data\obj\Debug\Data.pdb
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Data\obj\Debug\Data.Migrations.Initial.resources
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Data\obj\Debug\Data.Migrations.AddBalance.resources
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\BankSystem\Data\obj\Debug\Data.Migrations.AddUsers.resources

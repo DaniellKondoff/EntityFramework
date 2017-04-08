@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\08.PhotoShare-Skeleton\PhotoShare.Models\bin\Debug\PhotoShare.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\08.PhotoShare-Skeleton\PhotoShare.Models\bin\Debug\PhotoShare.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\08.PhotoShare-Skeleton\PhotoShare.Models\obj\Debug\PhotoShare.Models.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\08.PhotoShare-Skeleton\PhotoShare.Models\obj\Debug\PhotoShare.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\08.PhotoShare-Skeleton\PhotoShare.Models\obj\Debug\PhotoShare.Models.pdb

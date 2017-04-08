@@ -1,0 +1,12 @@
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Data\bin\Debug\ExamPrep.Data.dll.config
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Data\bin\Debug\ExamPrep.Data.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Data\bin\Debug\ExamPrep.Data.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Data\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Data\bin\Debug\ExamPrep.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Data\bin\Debug\ExamPrep.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Data\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Data\obj\Debug\ExamPrep.Data.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Data\obj\Debug\ExamPrep.Data.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Data\obj\Debug\ExamPrep.Data.pdb

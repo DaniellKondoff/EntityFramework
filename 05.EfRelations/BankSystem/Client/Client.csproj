@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{46A80004-B729-4E38-A039-752AC14EC0BF}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Client</RootNamespace>
+    <AssemblyName>Client</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aplication.cs" />
+    <Compile Include="Core\CommandDispatcher.cs" />
+    <Compile Include="Core\Commands\AddInterestCommand.cs" />
+    <Compile Include="Core\Commands\AddSavingAccountCommand.cs" />
+    <Compile Include="Core\Commands\DeductCommand.cs" />
+    <Compile Include="Core\Commands\DepositCommand.cs" />
+    <Compile Include="Core\Commands\ExitCommand.cs" />
+    <Compile Include="Core\Commands\ListAccounts.cs" />
+    <Compile Include="Core\Commands\LoginCommand.cs" />
+    <Compile Include="Core\Commands\Logout.cs" />
+    <Compile Include="Core\Commands\RegisterCommand.cs" />
+    <Compile Include="Core\Commands\WithdrawCommand.cs" />
+    <Compile Include="Core\Engine.cs" />
+    <Compile Include="Core\Utilities\AccounGenerator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Data\Data.csproj">
+      <Project>{2ab6dd57-5ba4-45a9-bbb8-5046b6e8d1d7}</Project>
+      <Name>Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Models\Models.csproj">
+      <Project>{69616663-6d2e-440c-838b-e78421f231e7}</Project>
+      <Name>Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Services\Services.csproj">
+      <Project>{c60e4d40-87ed-4e8c-a117-a263fa1c81b6}</Project>
+      <Name>Services</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

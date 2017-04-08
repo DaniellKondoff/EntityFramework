@@ -1,0 +1,16 @@
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Export\bin\Debug\Wedding.Export.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Export\bin\Debug\Wedding.Export.exe
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Export\bin\Debug\Wedding.Export.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Export\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Export\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Export\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Export\bin\Debug\Wedding.Data.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Export\bin\Debug\Wedding.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Export\bin\Debug\Wedding.Data.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Export\bin\Debug\Wedding.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Export\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Export\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Export\bin\Debug\Newtonsoft.Json.xml
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Export\obj\Debug\Wedding.Export.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Export\obj\Debug\Wedding.Export.exe
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Export\obj\Debug\Wedding.Export.pdb

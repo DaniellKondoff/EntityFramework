@@ -1,0 +1,8 @@
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\04.Students\bin\Debug\04.Students.exe.config
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\04.Students\bin\Debug\04.Students.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\04.Students\bin\Debug\04.Students.pdb
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\04.Students\obj\Debug\04.Students.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\04.Students\obj\Debug\04.Students.pdb
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\04.Students\bin\Debug\04.Students.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\04.Students\obj\Debug\04.Students.exe
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\04.Students\obj\Debug\04.Students.pdb

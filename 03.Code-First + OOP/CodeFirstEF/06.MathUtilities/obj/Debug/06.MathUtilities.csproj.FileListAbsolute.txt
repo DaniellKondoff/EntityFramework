@@ -1,0 +1,8 @@
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\06.MathUtilities\bin\Debug\06.MathUtilities.exe.config
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\06.MathUtilities\bin\Debug\06.MathUtilities.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\06.MathUtilities\bin\Debug\06.MathUtilities.pdb
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\06.MathUtilities\obj\Debug\06.MathUtilities.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\06.MathUtilities\obj\Debug\06.MathUtilities.pdb
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\06.MathUtilities\bin\Debug\06.MathUtilities.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\06.MathUtilities\obj\Debug\06.MathUtilities.exe
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\06.MathUtilities\obj\Debug\06.MathUtilities.pdb

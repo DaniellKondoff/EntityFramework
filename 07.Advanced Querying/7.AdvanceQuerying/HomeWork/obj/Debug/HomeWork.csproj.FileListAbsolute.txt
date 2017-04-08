@@ -1,0 +1,12 @@
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\HomeWork\bin\Debug\HomeWork.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\HomeWork\bin\Debug\HomeWork.exe
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\HomeWork\bin\Debug\HomeWork.pdb
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\HomeWork\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\HomeWork\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\HomeWork\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\HomeWork\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\HomeWork\obj\Debug\HomeWork.exe
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\HomeWork\obj\Debug\HomeWork.pdb
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\HomeWork\bin\Debug\EntityFramework.Extended.dll
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\HomeWork\bin\Debug\EntityFramework.Extended.xml

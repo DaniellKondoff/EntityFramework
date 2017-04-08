@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Models\bin\Debug\TeamBuilder.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Models\bin\Debug\TeamBuilder.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Models\obj\Debug\TeamBuilder.Models.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Models\obj\Debug\TeamBuilder.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\12.Big Overall Exercise\TeamBuilder\TeamBuilder.Models\obj\Debug\TeamBuilder.Models.pdb

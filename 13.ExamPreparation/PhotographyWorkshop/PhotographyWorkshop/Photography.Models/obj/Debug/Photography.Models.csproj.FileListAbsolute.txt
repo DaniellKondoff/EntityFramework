@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\PhotographyWorkshop\PhotographyWorkshop\Photography.Models\bin\Debug\Photography.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\PhotographyWorkshop\PhotographyWorkshop\Photography.Models\bin\Debug\Photography.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\PhotographyWorkshop\PhotographyWorkshop\Photography.Models\obj\Debug\Photography.Models.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\PhotographyWorkshop\PhotographyWorkshop\Photography.Models\obj\Debug\Photography.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\PhotographyWorkshop\PhotographyWorkshop\Photography.Models\obj\Debug\Photography.Models.pdb

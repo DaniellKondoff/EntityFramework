@@ -1,0 +1,1 @@
+D:\VisualStudio2015\Projects\EntityFramework\06.EntityRelationsAdv\06.EFRelationAdvance\06.EFRelationAdvance\bin\Debug\06.EFRelationAdvance.exe.config

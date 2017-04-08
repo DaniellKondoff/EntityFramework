@@ -1,0 +1,17 @@
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.Photographers\bin\Debug\05.Photographers.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.Photographers\bin\Debug\05.Photographers.exe
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.Photographers\bin\Debug\05.Photographers.pdb
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.Photographers\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.Photographers\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.Photographers\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.Photographers\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.Photographers\obj\Debug\05.Photographers.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.Photographers\obj\Debug\05.Photographers.exe
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.Photographers\obj\Debug\05.Photographers.pdb
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.Photographers\obj\Debug\Photographers.Migrations.InitialCreate.resources
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.Photographers\obj\Debug\05.Photographers.csproj.GenerateResource.Cache
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.Photographers\obj\Debug\Photographers.Migrations.AddAlbumsPics.resources
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.Photographers\obj\Debug\Photographers.Migrations.AddTags.resources
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.Photographers\obj\Debug\Photographers.Migrations.AddOwnersToAlbum.resources
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.Photographers\obj\Debug\Photographers.Migrations.AddRolles.resources
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.Photographers\obj\Debug\Photographers.Migrations.ManyToManyy.resources

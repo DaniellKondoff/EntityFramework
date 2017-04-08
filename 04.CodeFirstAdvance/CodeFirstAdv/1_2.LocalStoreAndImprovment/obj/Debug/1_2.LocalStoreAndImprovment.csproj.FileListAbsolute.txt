@@ -1,0 +1,10 @@
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\1_2.LocalStoreAndImprovment\bin\Debug\1_2.LocalStoreAndImprovment.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\1_2.LocalStoreAndImprovment\bin\Debug\1_2.LocalStoreAndImprovment.exe
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\1_2.LocalStoreAndImprovment\bin\Debug\1_2.LocalStoreAndImprovment.pdb
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\1_2.LocalStoreAndImprovment\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\1_2.LocalStoreAndImprovment\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\1_2.LocalStoreAndImprovment\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\1_2.LocalStoreAndImprovment\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\1_2.LocalStoreAndImprovment\obj\Debug\1_2.LocalStoreAndImprovment.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\1_2.LocalStoreAndImprovment\obj\Debug\1_2.LocalStoreAndImprovment.exe
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\1_2.LocalStoreAndImprovment\obj\Debug\1_2.LocalStoreAndImprovment.pdb

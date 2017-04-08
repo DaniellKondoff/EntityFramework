@@ -1,0 +1,12 @@
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\08.CreateUser\bin\Debug\08.CreateUser.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\08.CreateUser\bin\Debug\08.CreateUser.exe
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\08.CreateUser\bin\Debug\08.CreateUser.pdb
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\08.CreateUser\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\08.CreateUser\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\08.CreateUser\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\08.CreateUser\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\08.CreateUser\obj\Debug\08.CreateUser.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\08.CreateUser\obj\Debug\08.CreateUser.exe
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\08.CreateUser\obj\Debug\08.CreateUser.pdb
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\08.CreateUser\bin\Debug\09.HospitalDB.exe
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\08.CreateUser\bin\Debug\09.HospitalDB.pdb

@@ -1,0 +1,1 @@
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\SalesDB\bin\Debug\SalesDB.exe.config

@@ -1,0 +1,13 @@
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\FootballManagerDEMO\bin\Debug\FootballManagerDEMO.exe.config
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\FootballManagerDEMO\bin\Debug\FootballManagerDEMO.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\FootballManagerDEMO\bin\Debug\FootballManagerDEMO.pdb
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\FootballManagerDEMO\bin\Debug\EntityFramework.dll
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\FootballManagerDEMO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\FootballManagerDEMO\bin\Debug\EntityFramework.xml
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\FootballManagerDEMO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\FootballManagerDEMO\obj\Debug\FootballManagerDEMO.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\FootballManagerDEMO\obj\Debug\FootballManagerDEMO.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\FootballManagerDEMO\obj\Debug\FootballManagerDEMO.pdb
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\FootballManagerDEMO\bin\Debug\FootballManagerDEMO.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\FootballManagerDEMO\obj\Debug\FootballManagerDEMO.exe
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\FootballManagerDEMO\obj\Debug\FootballManagerDEMO.pdb

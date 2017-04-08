@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\BusTicketsystem\BusTicketsystem.Models\bin\Debug\BusTicketsystem.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\BusTicketsystem\BusTicketsystem.Models\bin\Debug\BusTicketsystem.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\BusTicketsystem\BusTicketsystem.Models\obj\Debug\BusTicketsystem.Models.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\BusTicketsystem\BusTicketsystem.Models\obj\Debug\BusTicketsystem.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\BusTicketsystem\BusTicketsystem.Models\obj\Debug\BusTicketsystem.Models.pdb

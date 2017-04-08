@@ -1,0 +1,6 @@
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\06.RemoveVillain\bin\Debug\06.RemoveVillain.exe.config
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\06.RemoveVillain\bin\Debug\06.RemoveVillain.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\06.RemoveVillain\bin\Debug\06.RemoveVillain.pdb
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\06.RemoveVillain\obj\Debug\06.RemoveVillain.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\06.RemoveVillain\obj\Debug\06.RemoveVillain.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\06.RemoveVillain\obj\Debug\06.RemoveVillain.pdb

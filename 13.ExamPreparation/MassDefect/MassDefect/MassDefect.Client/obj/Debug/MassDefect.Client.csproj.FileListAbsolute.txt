@@ -1,0 +1,12 @@
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Client\bin\Debug\MassDefect.Client.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Client\bin\Debug\MassDefect.Client.exe
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Client\bin\Debug\MassDefect.Client.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Client\bin\Debug\MassDefect.Data.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Client\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Client\bin\Debug\MassDefect.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Client\bin\Debug\MassDefect.Data.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Client\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Client\bin\Debug\MassDefect.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Client\obj\Debug\MassDefect.Client.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Client\obj\Debug\MassDefect.Client.exe
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\MassDefect\MassDefect\MassDefect.Client\obj\Debug\MassDefect.Client.pdb

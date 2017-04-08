@@ -1,0 +1,1 @@
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\7.AdvanceQuerying\bin\Debug\7.AdvanceQuerying.exe.config

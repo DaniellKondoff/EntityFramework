@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Models\bin\Debug\ExamPrep.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Models\bin\Debug\ExamPrep.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Models\obj\Debug\ExamPrep.Models.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Models\obj\Debug\ExamPrep.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\ExamPreparation\ExamPrep.Models\obj\Debug\ExamPrep.Models.pdb

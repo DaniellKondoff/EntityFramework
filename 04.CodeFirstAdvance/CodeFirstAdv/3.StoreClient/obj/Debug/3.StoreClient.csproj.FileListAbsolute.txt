@@ -1,0 +1,14 @@
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreClient\bin\Debug\3.StoreClient.exe
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreClient\bin\Debug\3.StoreClient.pdb
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreClient\bin\Debug\3.StoreData.dll
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreClient\bin\Debug\3.StoreModels.dll
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreClient\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreClient\bin\Debug\3.StoreData.pdb
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreClient\bin\Debug\3.StoreModels.pdb
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreClient\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreClient\obj\Debug\3.StoreClient.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreClient\obj\Debug\3.StoreClient.exe
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreClient\obj\Debug\3.StoreClient.pdb
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreClient\bin\Debug\3.StoreClient.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreClient\bin\Debug\EntityFramework.SqlServer.xml

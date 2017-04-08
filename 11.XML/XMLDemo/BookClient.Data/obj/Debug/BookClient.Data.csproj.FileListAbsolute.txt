@@ -1,0 +1,12 @@
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookClient.Data\bin\Debug\BookClient.Data.dll.config
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookClient.Data\bin\Debug\BookClient.Data.dll
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookClient.Data\bin\Debug\BookClient.Data.pdb
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookClient.Data\bin\Debug\BookCatalog.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookClient.Data\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookClient.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookClient.Data\bin\Debug\BookCatalog.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookClient.Data\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookClient.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookClient.Data\obj\Debug\BookClient.Data.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookClient.Data\obj\Debug\BookClient.Data.dll
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookClient.Data\obj\Debug\BookClient.Data.pdb

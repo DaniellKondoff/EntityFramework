@@ -1,0 +1,6 @@
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\03.GetMinionsNameById\bin\Debug\03.GetMinionsNameById.exe.config
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\03.GetMinionsNameById\bin\Debug\03.GetMinionsNameById.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\03.GetMinionsNameById\bin\Debug\03.GetMinionsNameById.pdb
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\03.GetMinionsNameById\obj\Debug\03.GetMinionsNameById.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\03.GetMinionsNameById\obj\Debug\03.GetMinionsNameById.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\03.GetMinionsNameById\obj\Debug\03.GetMinionsNameById.pdb

@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Models\bin\Debug\Wedding.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Models\bin\Debug\Wedding.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Models\obj\Debug\Wedding.Models.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Models\obj\Debug\Wedding.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\13.ExamPreparation\WeddingsPlanner\Wedding.Models\Wedding.Models\obj\Debug\Wedding.Models.pdb

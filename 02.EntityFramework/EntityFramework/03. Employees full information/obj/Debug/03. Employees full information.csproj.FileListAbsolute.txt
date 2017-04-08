@@ -1,0 +1,10 @@
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\03. Employees full information\bin\Debug\_03.Employees_full_information.exe.config
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\03. Employees full information\bin\Debug\_03.Employees_full_information.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\03. Employees full information\bin\Debug\_03.Employees_full_information.pdb
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\03. Employees full information\bin\Debug\EntityFramework.dll
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\03. Employees full information\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\03. Employees full information\bin\Debug\EntityFramework.xml
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\03. Employees full information\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\03. Employees full information\obj\Debug\03. Employees full information.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\03. Employees full information\obj\Debug\_03.Employees_full_information.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\02.EntityFramework\EntityFramework\03. Employees full information\obj\Debug\_03.Employees_full_information.pdb

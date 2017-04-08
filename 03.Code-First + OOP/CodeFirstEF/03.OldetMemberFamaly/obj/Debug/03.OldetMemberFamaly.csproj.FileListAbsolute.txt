@@ -1,0 +1,9 @@
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\03.OldetMemberFamaly\bin\Debug\03.OldetMemberFamaly.exe.config
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\03.OldetMemberFamaly\bin\Debug\03.OldetMemberFamaly.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\03.OldetMemberFamaly\bin\Debug\03.OldetMemberFamaly.pdb
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\03.OldetMemberFamaly\obj\Debug\03.OldetMemberFamaly.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\03.OldetMemberFamaly\obj\Debug\03.OldetMemberFamaly.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\03.OldetMemberFamaly\obj\Debug\03.OldetMemberFamaly.pdb
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\03.OldetMemberFamaly\bin\Debug\03.OldetMemberFamaly.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\03.OldetMemberFamaly\obj\Debug\03.OldetMemberFamaly.exe
+D:\VisualStudio2015\Projects\EntityFramework\03.Code-First + OOP\CodeFirstEF\03.OldetMemberFamaly\obj\Debug\03.OldetMemberFamaly.pdb

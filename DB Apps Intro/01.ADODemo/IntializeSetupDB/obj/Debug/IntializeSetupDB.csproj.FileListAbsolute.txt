@@ -1,0 +1,6 @@
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\IntializeSetupDB\bin\Debug\IntializeSetupDB.exe.config
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\IntializeSetupDB\bin\Debug\IntializeSetupDB.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\IntializeSetupDB\bin\Debug\IntializeSetupDB.pdb
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\IntializeSetupDB\obj\Debug\IntializeSetupDB.csprojResolveAssemblyReference.cache
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\IntializeSetupDB\obj\Debug\IntializeSetupDB.exe
+C:\Users\Kondoff\Documents\Visual Studio 2015\Projects\EntityFramework\DB Apps Intro\01.ADODemo\IntializeSetupDB\obj\Debug\IntializeSetupDB.pdb

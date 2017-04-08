@@ -1,0 +1,16 @@
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\7.AdvanceQuerying\bin\Debug\7.AdvanceQuerying.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\7.AdvanceQuerying\bin\Debug\7.AdvanceQuerying.exe
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\7.AdvanceQuerying\bin\Debug\7.AdvanceQuerying.pdb
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\7.AdvanceQuerying\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\7.AdvanceQuerying\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\7.AdvanceQuerying\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\7.AdvanceQuerying\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\7.AdvanceQuerying\obj\Debug\AdvanceQueryingDemo.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\7.AdvanceQuerying\obj\Debug\7.AdvanceQuerying.exe
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\7.AdvanceQuerying\obj\Debug\7.AdvanceQuerying.pdb
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\7.AdvanceQuerying\obj\Debug\AdvanceQuerying.Migrations.InitialCreate.resources
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\7.AdvanceQuerying\obj\Debug\AdvanceQueryingDemo.csproj.GenerateResource.Cache
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\7.AdvanceQuerying\obj\Debug\AdvanceQuerying.Migrations.AddAddressToClient.resources
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\7.AdvanceQuerying\bin\Debug\EntityFramework.Extended.dll
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\7.AdvanceQuerying\bin\Debug\EntityFramework.Extended.xml
+D:\VisualStudio2015\Projects\EntityFramework\07.Advanced Querying\7.AdvanceQuerying\7.AdvanceQuerying\obj\Debug\AdvanceQuerying.Migrations.AddAgeToAddress.resources

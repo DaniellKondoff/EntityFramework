@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\BestPracticesArchitecture\BestPracticeDemo\bin\Debug\BestPracticeDemo.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\BestPracticesArchitecture\BestPracticeDemo\bin\Debug\BestPracticeDemo.exe
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\BestPracticesArchitecture\BestPracticeDemo\bin\Debug\BestPracticeDemo.pdb
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\BestPracticesArchitecture\BestPracticeDemo\obj\Debug\BestPracticeDemo.exe
+D:\VisualStudio2015\Projects\EntityFramework\08.Best Practices and Architecture\BestPracticesArchitecture\BestPracticeDemo\obj\Debug\BestPracticeDemo.pdb

@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreModels\bin\Debug\3.StoreModels.dll
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreModels\bin\Debug\3.StoreModels.pdb
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreModels\obj\Debug\3.StoreModels.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreModels\obj\Debug\3.StoreModels.dll
+D:\VisualStudio2015\Projects\EntityFramework\04.CodeFirstAdvance\CodeFirstAdv\3.StoreModels\obj\Debug\3.StoreModels.pdb

@@ -1,0 +1,10 @@
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.EfRealationsOOP\bin\Debug\05.EfRealationsOOP.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.EfRealationsOOP\bin\Debug\05.EfRealationsOOP.exe
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.EfRealationsOOP\bin\Debug\05.EfRealationsOOP.pdb
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.EfRealationsOOP\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.EfRealationsOOP\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.EfRealationsOOP\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.EfRealationsOOP\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.EfRealationsOOP\obj\Debug\RelationsDemo.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.EfRealationsOOP\obj\Debug\05.EfRealationsOOP.exe
+D:\VisualStudio2015\Projects\EntityFramework\05.EfRelations\05.EfRealationsOOP\05.EfRealationsOOP\obj\Debug\05.EfRealationsOOP.pdb

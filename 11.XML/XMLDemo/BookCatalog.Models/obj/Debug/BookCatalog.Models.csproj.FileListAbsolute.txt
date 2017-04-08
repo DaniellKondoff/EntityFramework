@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookCatalog.Models\bin\Debug\BookCatalog.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookCatalog.Models\bin\Debug\BookCatalog.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookCatalog.Models\obj\Debug\BookCatalog.Models.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookCatalog.Models\obj\Debug\BookCatalog.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\11.XML\XMLDemo\BookCatalog.Models\obj\Debug\BookCatalog.Models.pdb

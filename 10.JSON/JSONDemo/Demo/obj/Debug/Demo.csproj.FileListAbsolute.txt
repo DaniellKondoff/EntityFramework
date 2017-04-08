@@ -1,0 +1,14 @@
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\JSONDemo\Demo\bin\Debug\Demo.exe.config
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\JSONDemo\Demo\bin\Debug\Demo.exe
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\JSONDemo\Demo\bin\Debug\Demo.pdb
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\JSONDemo\Demo\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\JSONDemo\Demo\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\JSONDemo\Demo\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\JSONDemo\Demo\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\JSONDemo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\JSONDemo\Demo\obj\Debug\Demo.exe
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\JSONDemo\Demo\obj\Debug\Demo.pdb
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\JSONDemo\Demo\bin\Debug\AutoMapper.dll
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\JSONDemo\Demo\bin\Debug\AutoMapper.xml
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\JSONDemo\Demo\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\JSONDemo\Demo\bin\Debug\Newtonsoft.Json.xml

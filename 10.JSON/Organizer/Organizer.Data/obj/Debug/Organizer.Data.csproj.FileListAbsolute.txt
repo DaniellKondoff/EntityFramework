@@ -1,0 +1,14 @@
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Data\bin\Debug\Organizer.Data.dll.config
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Data\bin\Debug\Organizer.Data.dll
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Data\bin\Debug\Organizer.Data.pdb
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Data\bin\Debug\EntityFramework.dll
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Data\bin\Debug\Organizer.Models.dll
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Data\bin\Debug\Organizer.Models.pdb
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Data\bin\Debug\EntityFramework.xml
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Data\obj\Debug\Organizer.Data.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Data\obj\Debug\Organizer.Data.dll
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Data\obj\Debug\Organizer.Data.pdb
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Data\obj\Debug\Organizer.Data.Migrations.InitialCreate.resources
+D:\VisualStudio2015\Projects\EntityFramework\10.JSON\Organizer\Organizer.Data\obj\Debug\Organizer.Data.csproj.GenerateResource.Cache
