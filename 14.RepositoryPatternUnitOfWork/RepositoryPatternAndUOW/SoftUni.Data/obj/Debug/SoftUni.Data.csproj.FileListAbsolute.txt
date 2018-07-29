@@ -1,0 +1,12 @@
+D:\Program Files\GitHub\EntityFramework\14.RepositoryPatternUnitOfWork\RepositoryPatternAndUOW\SoftUni.Data\obj\Debug\SoftUni.Data.csprojResolveAssemblyReference.cache
+D:\Program Files\GitHub\EntityFramework\14.RepositoryPatternUnitOfWork\RepositoryPatternAndUOW\SoftUni.Data\bin\Debug\SoftUni.Data.dll.config
+D:\Program Files\GitHub\EntityFramework\14.RepositoryPatternUnitOfWork\RepositoryPatternAndUOW\SoftUni.Data\bin\Debug\SoftUni.Data.dll
+D:\Program Files\GitHub\EntityFramework\14.RepositoryPatternUnitOfWork\RepositoryPatternAndUOW\SoftUni.Data\bin\Debug\SoftUni.Data.pdb
+D:\Program Files\GitHub\EntityFramework\14.RepositoryPatternUnitOfWork\RepositoryPatternAndUOW\SoftUni.Data\bin\Debug\EntityFramework.dll
+D:\Program Files\GitHub\EntityFramework\14.RepositoryPatternUnitOfWork\RepositoryPatternAndUOW\SoftUni.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Program Files\GitHub\EntityFramework\14.RepositoryPatternUnitOfWork\RepositoryPatternAndUOW\SoftUni.Data\bin\Debug\SoftUni.Models.dll
+D:\Program Files\GitHub\EntityFramework\14.RepositoryPatternUnitOfWork\RepositoryPatternAndUOW\SoftUni.Data\bin\Debug\SoftUni.Models.pdb
+D:\Program Files\GitHub\EntityFramework\14.RepositoryPatternUnitOfWork\RepositoryPatternAndUOW\SoftUni.Data\bin\Debug\EntityFramework.xml
+D:\Program Files\GitHub\EntityFramework\14.RepositoryPatternUnitOfWork\RepositoryPatternAndUOW\SoftUni.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Program Files\GitHub\EntityFramework\14.RepositoryPatternUnitOfWork\RepositoryPatternAndUOW\SoftUni.Data\obj\Debug\SoftUni.Data.dll
+D:\Program Files\GitHub\EntityFramework\14.RepositoryPatternUnitOfWork\RepositoryPatternAndUOW\SoftUni.Data\obj\Debug\SoftUni.Data.pdb

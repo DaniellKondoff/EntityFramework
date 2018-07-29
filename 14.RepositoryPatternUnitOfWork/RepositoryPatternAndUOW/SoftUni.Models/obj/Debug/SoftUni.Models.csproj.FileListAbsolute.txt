@@ -1,0 +1,4 @@
+D:\Program Files\GitHub\EntityFramework\14.RepositoryPatternUnitOfWork\RepositoryPatternAndUOW\SoftUni.Models\bin\Debug\SoftUni.Models.dll
+D:\Program Files\GitHub\EntityFramework\14.RepositoryPatternUnitOfWork\RepositoryPatternAndUOW\SoftUni.Models\bin\Debug\SoftUni.Models.pdb
+D:\Program Files\GitHub\EntityFramework\14.RepositoryPatternUnitOfWork\RepositoryPatternAndUOW\SoftUni.Models\obj\Debug\SoftUni.Models.dll
+D:\Program Files\GitHub\EntityFramework\14.RepositoryPatternUnitOfWork\RepositoryPatternAndUOW\SoftUni.Models\obj\Debug\SoftUni.Models.pdb
